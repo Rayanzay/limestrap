@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.png)
+![Fishstrap](https://www.fishstrap.app/img/Showcase.png)
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
 
